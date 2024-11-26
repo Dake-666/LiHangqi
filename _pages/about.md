@@ -46,7 +46,7 @@ I am broadly interested in Applied Machine Learning, Controllable Generative Mod
 
 <!-- ***NeurIPS 2023 Workshop on [Regulatable ML](https://regulatableml.github.io/#overview)*** -->
 
-[[Paper]](https://openreview.net/forum?id=FOcleL0ltt), [[Project Page]](https://sites.google.com/view/unicomposer)
+[[Paper]](https://openreview.net/pdf?id=FOcleL0ltt), [[Project Page]](https://sites.google.com/view/unicomposer)
 
 
 - We introduce UniComposer, the first band-level music generation system that involves collaborative roles of instruments, tailored to harmonize, provide rhythm, with careful selection of instruments to match the melody's expressive qualities. 
