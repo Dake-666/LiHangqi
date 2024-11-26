@@ -35,7 +35,6 @@ I am broadly interested in Applied Machine Learning, Controllable Generative Mod
 
 # 📝 Publications and Preprints
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/iclcr25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
