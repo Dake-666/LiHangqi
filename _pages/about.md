@@ -41,7 +41,7 @@ I am broadly interested in Applied Machine Learning, Controllable Generative Mod
 
 **UniComposer: Band-Level Music Composition with Symbolic and Audio Unification**
 
-# **Hangqi Li**, [Zeyu Zheng](https://zheng.ieor.berkeley.edu/)
+**Hangqi Li**, [Zeyu Zheng](https://zheng.ieor.berkeley.edu/)
 
 ***Under Review***
 
@@ -96,7 +96,7 @@ mance of ancient Chinese LLMs specialized for manuscript discoveries.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM Asia 2024</div><img src='image/mmasia24.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM Asia 2024</div><img src='images/mmasia24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DHelper: A Collaborative Toolkit for Manuscript Restoration**
@@ -117,7 +117,7 @@ mance of ancient Chinese LLMs specialized for manuscript discoveries.
 
 # 📝 Patents
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CN Patent</div><img src='image/patent1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CN Patent</div><img src='images/patent1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Multi-mode Dunhuang residual scroll conjugation method based on text matching and twin network**
@@ -133,7 +133,7 @@ mance of ancient Chinese LLMs specialized for manuscript discoveries.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CN Patent</div><img src='image/patent2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CN Patent</div><img src='images/patent2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Multi-mode Dunhuang residual scroll conjugation method based on text matching and twin network**
@@ -152,10 +152,15 @@ mance of ancient Chinese LLMs specialized for manuscript discoveries.
 # 🎖 Honors and Awards
 
 - *2023 - 2024* Zhejiang Provincial Government Scholarship 
+  
   Awarded for academic and innovative outstanding in Zhejiang Province, top 5%
+
 - *2021 - 2022, 2022 - 2023, 2023 - 2024* Zhejiang University Scholarship
+  
   Awarded for academic and innovative outstanding, top 3%
+
 - *2022 - 2023, 2023 - 2024*  Chu Kochen Honors College Scholarship
+  
   Awarded for leading achievements and innovation in the college
 
 
@@ -169,5 +174,7 @@ mance of ancient Chinese LLMs specialized for manuscript discoveries.
 # 🎉 Activities
 
 - *2022 - 2023, 2023 - 2024* Lecturer, Chu Kochen Honors College Peer Academic Assistance Program
+  
 - *2023.10* Volunteer, Hangzhou 2022 Asian Games
+  
 - *2022 - 2023* Team Leader, Zhejiang University Peer Mentionship Freshman Assistance Program
