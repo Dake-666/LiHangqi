@@ -19,9 +19,9 @@ redirect_from:
 # 💬 About Me
 
 
-Hi! My name is Hangqi Li (李航奇), a senior undergraduate majoring in Computer Science & Technology at [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/), [Zhejiang University](https://www.zju.edu.cn/english/). I currently hold a GPA of 3.93/4.0 and expect to receive my degree in June, 2025.
+Hi! My name is Hangqi Li (李航奇), a senior undergraduate majoring in Computer Science & Technology at [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/), [Zhejiang University](https://www.zju.edu.cn/english/). I currently hold a GPA of 3.93/4.0, ranking top 2% among 301 students, and expect to receive my degree in June, 2025.
 
-I am broadly interested in Applied Machine Learning, Controllable Generative Models and AI for Common Good. I have been doing research engaged in AI for Science research to apply CV and NLP techniques to address real-world problems, as an internship advised by [Prof. Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en) at Zhejiang University Digital Media Computing and Design (DCD) Lab. I'm now a research intern with [Prof. Zeyu Zheng](https://zheng.ieor.berkeley.edu/) at IEOR Department of UC Berkeley, focusing on controllable generation of structured data such as music and images.
+I am broadly interested in Applied Machine Learning, Controllable Generative Models and AI for Common Good. I have been doing research engaged in AI4Science to apply CV and NLP techniques to address real-world problems, as an internship advised by [Prof. Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en) at Zhejiang University Digital Media Computing and Design (DCD) Lab. I'm now a research intern with [Prof. Zeyu Zheng](https://zheng.ieor.berkeley.edu/) at IEOR Department of UC Berkeley, focusing on controllable generation of structured data such as music and images.
 
 
 # 📖 Educations
@@ -50,7 +50,7 @@ I am broadly interested in Applied Machine Learning, Controllable Generative Mod
 [[Paper]](https://openreview.net/forum?id=FOcleL0ltt), [[Project Page]](https://sites.google.com/view/unicomposer)
 
 
-- We introduce UniComposer, the first band-level music generation system that involves collaborative roles of instruments, tailored to harmonize, provide rhythm, or accompaniment, with careful selection of instruments to match the melody's expressive qualities. 
+- We introduce UniComposer, the first band-level music generation system that involves collaborative roles of instruments, tailored to harmonize, provide rhythm, with careful selection of instruments to match the melody's expressive qualities. 
 - We propose an approach that integrates the advantages of both symbolic and audio music, using separate encoders and a shared decoder to bridge both formats within a common feature space.
 - UniComposer is capable of mapping inputs into a unified feature space for generation through cascaded bar-based diffusion models.
 
