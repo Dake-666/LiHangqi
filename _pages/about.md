@@ -36,7 +36,7 @@ I am broadly interested in Applied Machine Learning, Controllable Generative Mod
 # 📝 Publications and Preprints
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/iclr25.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/iclcr25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **UniComposer: Band-Level Music Composition with Symbolic and Audio Unification**
@@ -128,7 +128,7 @@ mance of ancient Chinese LLMs specialized for manuscript discoveries.
 
 [[Patent]](https://worldwide.espacenet.com/patent/search/family/090792079/publication/CN117953504A?q=117953504)
 
-- A multi-mode Dunhuang residual scroll conjugation method combines text matching and a twin network. It extracts image masks and contours via binarization and closing operations, pairs images with a self-supervised twin network, and uses OCR for text-based positioning to calculate candidate positions. 
+- A multi-mode Dunhuang scroll conjugation method uses text matching, a twin network, and OCR to extract masks, pair images, and calculate candidate positions.
 - Multi-modal text and contour matching enhance accuracy, and global splicing employs image search techniques. This method applies to Dunhuang scroll conjugation and advances research in ancient linguistics and social studies.
 </div>
 </div>
@@ -144,8 +144,8 @@ mance of ancient Chinese LLMs specialized for manuscript discoveries.
 
 [[Patent]](https://worldwide.espacenet.com/patent/search/family/092463231/publication/CN118570540A?q=118570540)
 
-- A method for screening conjugatable Dunhuang fragments using combinatorial optimization and a multi-modal large model. It involves extracting feature vectors with a ResNet18-based twin neural network, predicting matching scores, and forming an undirected graph for fragments above a threshold. 
-- A graph neural network identifies splicable fragment sets, and a multi-modal large model checks for errors using predefined cue words. Error fragments are removed, and re-screening produces new candidate sets. This method enhances efficiency in Dunhuang fragment conjugation and ancient linguistics research.
+- A method for screening Dunhuang fragments using combinatorial optimization and a multi-modal model, involving feature extraction, matching score prediction, and graph formation for high-scoring fragments.
+- A graph neural network identifies splicable fragments, while a multi-modal model checks for errors using cue words. Error fragments are removed, and re-screening generates new candidate sets, improving efficiency in Dunhuang fragment research.
 </div>
 </div>
 
