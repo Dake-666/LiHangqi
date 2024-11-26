@@ -5,19 +5,18 @@ main:
 
   - title: "Educations"
     url: "/#-educations"
-  # - title: "News"
-    # url: "/#-news"
+
+  - title: "News"
+    url: "/#-news"
 
   - title: "Publications and Preprints"
     url: "/#-publications-and-preprints"
 
+  - title: "Patents"
+    url: "/#-patents"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Teaching"
-    url: "/#-teaching"
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
-
-  - title: "Misc"
-    url: "/#-misc"
+  - title: "Activities"
+    url: "/#-Activities"
