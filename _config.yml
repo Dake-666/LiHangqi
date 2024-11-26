@@ -6,30 +6,31 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hangqi Li"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "Dake-666/LiHangqi"
-google_scholar_stats_use_cdn : false
+title                    : "Xinyu Yang"
+description              : "First-year Ph.D. student in Information Science at Cornell University"
+repository               : "YoungXinyu1802/YoungXinyu1802.github.io"
+google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  G-3CXTTZKE7K
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification :  Vvra7ZY1me63ac38DKHG4iUziSECGWYxMXjRIREtCuk # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Hangqi Li"
-  avatar           : "images/myself.jpg"
-  bio              : "Lorem ipsum College"
-  location         : "Hangzhou, China"
+  name             : "Xinyu Yang"
+  avatar           : "images/Xinyu_Yang.jpg"
+  bio              : "Cornell University"
+  location         : 
   employer         :
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "3210105819@zju.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=wQvr1eoAAAAJ&hl=en"
+  email            : "xinyuyang1203@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  semanticscholar  :  # https://www.semanticscholar.org/author/Xinyu-Yang/2216295251
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "YoungXinyu1802"
   google_plus      :
   keybase          :
   instagram        :
@@ -51,7 +52,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : fishxinyu_yang
   vine             :
   weibo            :
   xing             :
