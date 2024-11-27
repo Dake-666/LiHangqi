@@ -30,7 +30,7 @@ I am broadly interested in Applied Machine Learning, Controllable Generative Mod
 
 
 # 🔥 News
-- Working on a project focusing on image generation advised by [Prof. Zeyu Zheng](https://zheng.ieor.berkeley.edu/) (UC Berkeley). Will submit soon.
+- Working on a project focusing on image generation advised by [Prof. Zeyu Zheng](https://zheng.ieor.berkeley.edu/) (UC Berkeley).
 
 
 # 📝 Publications and Preprints
