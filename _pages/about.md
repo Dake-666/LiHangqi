@@ -30,7 +30,7 @@ I am broadly interested in Applied Machine Learning, Controllable Generative Mod
 
 
 # 🔥 News
-- Working on a project focusing on image generation advised by [Prof. Zeyu Zheng](https://zheng.ieor.berkeley.edu/) (UC Berkeley).
+- Working on a project focusing on image generation advised by [Prof. Zeyu Zheng](https://zheng.ieor.berkeley.edu/) at UC Berkeley.
 
 
 # 📝 Publications and Preprints
@@ -44,7 +44,6 @@ I am broadly interested in Applied Machine Learning, Controllable Generative Mod
 
 ***Under Review***
 
-<!-- ***NeurIPS 2023 Workshop on [Regulatable ML](https://regulatableml.github.io/#overview)*** -->
 
 [[Paper]](https://openreview.net/pdf?id=FOcleL0ltt), [[Project Page]](https://sites.google.com/view/unicomposer)
 
@@ -159,11 +158,7 @@ I am broadly interested in Applied Machine Learning, Controllable Generative Mod
 
 
 <!-- # 🗒 Teaching
-
-
-# 💬 💻Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+# 💬 💻Invited Talks -->
 
 # 🎉 Activities
 
