@@ -21,7 +21,7 @@ redirect_from:
 
 Hi! My name is Hangqi Li (李航奇), a senior undergraduate majoring in Computer Science & Technology at [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/), [Zhejiang University](https://www.zju.edu.cn/english/). I currently hold a GPA of 3.93/4.0, ranking top 2% among 301 students, and expect to receive my degree in June, 2025.
 
-I am broadly interested in Applied Machine Learning, Controllable Generative Models and AI for Common Good. I have been doing research engaged in AI4Science to apply CV and NLP techniques to address real-world problems, as an internship advised by [Prof. Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en) at Zhejiang University Digital Media Computing and Design (DCD) Lab. I'm now a research intern with [Prof. Zeyu Zheng](https://zheng.ieor.berkeley.edu/) at IEOR Department of UC Berkeley, focusing on controllable generation of structured data such as music and images.
+I am broadly interested in Applied Machine Learning, Controllable Generative Models and AI for Common Good. I have been doing research engaged in AI4Science to apply CV and NLP techniques to address real-world problems, as an intern advised by [Prof. Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en) at Zhejiang University Digital Media Computing and Design (DCD) Lab. I'm now a research intern with [Prof. Zeyu Zheng](https://zheng.ieor.berkeley.edu/) at Department of Industrial Engineering and Operations Research at [UC Berkeley](https://ieor.berkeley.edu/), focusing on controllable generation of structured data such as music and images.
 
 
 # 📖 Educations
@@ -49,9 +49,8 @@ I am broadly interested in Applied Machine Learning, Controllable Generative Mod
 [[Paper]](https://openreview.net/pdf?id=FOcleL0ltt), [[Project Page]](https://sites.google.com/view/unicomposer)
 
 
-- We introduce UniComposer, the first band-level music generation system that involves collaborative roles of instruments, tailored to harmonize, provide rhythm, with careful selection of instruments to match the melody's expressive qualities. 
-- We propose an approach that integrates the advantages of both symbolic and audio music, using separate encoders and a shared decoder to bridge both formats within a common feature space.
-- UniComposer is capable of mapping inputs into a unified feature space for generation through cascaded bar-based diffusion models.
+- *UniComposer*: the first band-level music generation system that involves collaborative roles of instruments, tailored to harmonize, provide rhythm, with careful selection of instruments to match the melody's expressive qualities, through cascaded bar-based diffusion models.
+- An approach that integrates the advantages of both symbolic and audio music, using separate encoders and a shared decoder to bridge both formats within a common feature space, while gaining computational efficiency as well.
 
 </div>
 </div>
@@ -69,9 +68,8 @@ I am broadly interested in Applied Machine Learning, Controllable Generative Mod
 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-73226-3_15)
 
 
-- We formulate the fragment selection subtask as a combinatorial optimization (CO) problem, and introduce a novel framework named LLMCO4MR, a LLMs-aided Neural Combinatorial Optimization solver for manuscript restoration.
-- We are the first to address the more realistic and challenging setting, i.e., restoring the manuscript from a subset of fragments with outliers, and introduce MLLMs for manuscript recovery or more broadly speaking, jigsaw puzzle-like tasks.
-- We carry assembly experiments on Dunhuang fragments, Dead Sea papyrus fragments, and Chinese oracle bone fragments.
+- Formulate the fragment selection subtask for manuscript restoration as a combinatorial optimization (CO) problem, and introduce *LLMCO4MR*, a LLMs-aided Neural Combinatorial Optimization solver.
+- The first to restore the manuscript from a subset of fragments with *outliers*, and introduce MLLMs for manuscript recovery and jigsaw puzzle-like tasks. We carry assembly on Dunhuang manuscripts, Dead Sea papyrus, and Chinese oracle bone fragments.
 
 </div>
 </div>
@@ -88,10 +86,8 @@ I am broadly interested in Applied Machine Learning, Controllable Generative Mod
 
 [[Paper]](https://aclanthology.org/2024.emnlp-main.163/)
 
--  We curated the *PhiloCorpus-ZH*, a collection of ancient Chinese manuscripts, together with *PhiloBenchmark*, which includes 9 unique tasks to assess the perfor
-mance of ancient Chinese LLMs specialized for manuscript discoveries.
-- We introduce PhiloCoP, a framework that adheres to chain-of-thoughts for philologists, progressively navigating vocabulary and grammatical phenomena in classical Chinese.
-- *PhiloGPT* has been applied to specialized tasks tailored for Dunhuang scholars, including the restoration and distinction of manuscripts.
+- *PhiloCorpus-ZH*, a collection of ancient Chinese manuscripts; and *PhiloBenchmark* including 9 tasks to assess the performance of ancient Chinese LLMs for manuscript discoveries.
+- *PhiloCoP*, a framework that adheres to chain-of-thoughts for philologists navigating vocabulary and grammatical phenomena in classical Chinese. *PhiloGPT* has been applied to tasks including the restoration and distinction of Dunhuang manuscripts.
 </div>
 </div>
 
@@ -107,9 +103,8 @@ mance of ancient Chinese LLMs specialized for manuscript discoveries.
 
 [[Paper]](https://aclanthology.org/2024.emnlp-main.163/)
 
-- We compiled a comprehensive dataset featuring 781 groups of conjugated Dunhuang fragments, representing the first dataset of its kind.
-- We created a multi-functional toolkit that facilitates collaboration between foundational models and domain-specific models, emphasizing the synergy between large and small models.
-- We developed a domain-specific large language model based on the Dunhuang corpus, capable of addressing expert inquiries while also introducing knowledge about Dunhuang to the general public.
+- The first comprehensive dataset featuring 781 groups of conjugated Dunhuang fragments, with a multi-functional toolkit that facilitates collaboration between large and small models.
+- A domain-specific large language model based on the Dunhuang corpus, capable of addressing expert inquiries and introducing knowledge about Dunhuang to the general public.
 </div>
 </div>
 
@@ -127,7 +122,7 @@ mance of ancient Chinese LLMs specialized for manuscript discoveries.
 
 [[Patent]](https://worldwide.espacenet.com/patent/search/family/090792079/publication/CN117953504A?q=117953504)
 
-- A multi-mode Dunhuang scroll conjugation method uses text matching, a twin network, and OCR to extract masks, pair images, and calculate candidate positions.
+- A multi-mode Dunhuang scroll conjugation method using text matching, a twin network, and OCR to extract masks, pair images, and calculate candidate positions.
 - Multi-modal text and contour matching enhance accuracy, and global splicing employs image search techniques. This method applies to Dunhuang scroll conjugation and advances research in ancient linguistics and social studies.
 </div>
 </div>
@@ -144,7 +139,7 @@ mance of ancient Chinese LLMs specialized for manuscript discoveries.
 [[Patent]](https://worldwide.espacenet.com/patent/search/family/092463231/publication/CN118570540A?q=118570540)
 
 - A method for screening Dunhuang fragments using combinatorial optimization and a multi-modal model, involving feature extraction, matching score prediction, and graph formation for high-scoring fragments.
-- A graph neural network identifies splicable fragments, while a multi-modal model checks for errors using cue words. Error fragments are removed, and re-screening generates new candidate sets, improving efficiency in Dunhuang fragment research.
+- A graph neural network identifies splicable fragments, while a multi-modal model checks for errors using cue words. Error fragments are removed, and re-screening generates new candidate sets.
 </div>
 </div>
 
