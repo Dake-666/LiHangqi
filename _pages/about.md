@@ -144,11 +144,11 @@ I am broadly interested in Applied Machine Learning, Controllable Generative Mod
 
 # 🎖 Honors and Awards
 
-- *2023 - 2024* Zhejiang Provincial Government Scholarship 
+- *2023 - 2024*  Zhejiang Provincial Government Scholarship 
   
   Awarded for academic and innovative outstanding in Zhejiang Province, top 5%
 
-- *2021 - 2022, 2022 - 2023, 2023 - 2024* Zhejiang University Scholarship
+- *2021 - 2022, 2022 - 2023, 2023 - 2024*  Zhejiang University Scholarship
   
   Awarded for academic and innovative outstanding, top 3%
 
@@ -162,8 +162,10 @@ I am broadly interested in Applied Machine Learning, Controllable Generative Mod
 
 # 🎉 Activities
 
-- *2022 - 2023, 2023 - 2024* Lecturer, Chu Kochen Honors College Peer Academic Assistance Program
+- *2022 - 2023, 2023 - 2024*  Lecturer, Chu Kochen Honors College Peer Academic Assistance Program
   
-- *2023.10* Volunteer, Hangzhou 2022 Asian Games
+- *2023.10*  Volunteer, Hangzhou 2022 Asian Games
   
-- *2022 - 2023* Team Leader, Zhejiang University Peer Mentionship Freshman Assistance Program
+- *2022 - 2023*  Team Leader, Zhejiang University Peer Mentionship Freshman Assistance Program
+
+- *2022.1 - 2022.2, 2022.7 - 2022.8*  Team member, educational volunteer work in Yunnan Province and the Ningxia Hui Autonomous Region, China
