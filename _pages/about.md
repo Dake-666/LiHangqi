@@ -168,4 +168,4 @@ I am broadly interested in Applied Machine Learning, Controllable Generative Mod
   
 - *2022 - 2023*  **Team Leader**, Zhejiang University Peer Mentionship Freshman Assistance Program
 
-- *2022.1 - 2022.2, 2022.7 - 2022.8*  **Team member**, educational volunteer work in Yunnan Province and the Ningxia Hui Autonomous Region, China
+- *2022.1 - 2022.2, 2022.7 - 2022.8*  **Team member**, volunteer teaching program in Yunnan Province and the Ningxia Hui Autonomous Region, China
