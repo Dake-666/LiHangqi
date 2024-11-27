@@ -129,7 +129,7 @@ I am broadly interested in Applied Machine Learning, Controllable Generative Mod
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CN Patent</div><img src='images/patent2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Multi-mode Dunhuang residual scroll conjugation method based on text matching and twin network**
+**Combinatorial optimization and multi-modal large model-based conjugates Dunhuang fragment screening method**
 
 **LI HANGQI**; ZHANG YUQING; WU KEYUE; DOU HUAIYONG; YAN JUNCHI; ZHANG SHENGYU; ZHANG YONGQUAN
 
