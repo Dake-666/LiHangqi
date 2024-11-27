@@ -30,7 +30,7 @@ author:
   googlescholar    : # "https://scholar.google.com/citations?user=wQvr1eoAAAAJ&hl=en"
   email            : "3210105819@zju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  semanticscholar  :  # https://www.semanticscholar.org/author/Xinyu-Yang/2216295251
+  semanticscholar  :  
   uri              :
   bitbucket        :
   codepen          :
@@ -52,7 +52,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # fishxinyu_yang
+  twitter          : 
   vine             :
   weibo            :
   xing             :
