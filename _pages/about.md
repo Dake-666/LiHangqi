@@ -144,6 +144,10 @@ I am broadly interested in Applied Machine Learning, Controllable Generative Mod
 
 # 🎖 Honors and Awards
 
+- *November 2024* Top 10 Honored Student in Chu kochen Honors College
+  
+  Awarded for academic, research and social commitment outstanding, 10 out of 800
+
 - *2023 - 2024*  Zhejiang Provincial Government Scholarship 
   
   Awarded for academic and innovative outstanding in Zhejiang Province, top 5%
