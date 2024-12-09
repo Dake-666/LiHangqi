@@ -31,6 +31,7 @@ I am broadly interested in Applied Machine Learning, Controllable Generative Mod
 
 # 🔥 News
 - Working on a project focusing on image generation advised by [Prof. Zeyu Zheng](https://zheng.ieor.berkeley.edu/) at UC Berkeley.
+- *2024.12* Selected as one of top-10 honored students of the Chu Kochen Honors College.
 
 
 # 📝 Publications and Preprints
@@ -144,7 +145,7 @@ I am broadly interested in Applied Machine Learning, Controllable Generative Mod
 
 # 🎖 Honors and Awards
 
-- *November 2024* Top-10 Honored Students of the Chu kochen Honors College
+- *2024.12* Top-10 Honored Students of the Chu Kochen Honors College
   
   Awarded for outstanding academic, research and social commitment, 10 out of 800
 
