@@ -46,7 +46,8 @@ I am broadly interested in Applied Machine Learning, Controllable Generative Mod
 ***Under Review***
 
 
-[[Paper]](https://openreview.net/pdf?id=FOcleL0ltt), [[Project Page]](https://sites.google.com/view/unicomposer)
+<!-- [[Project Page]](https://sites.google.com/view/unicomposer) [[Paper]](https://openreview.net/pdf?id=FOcleL0ltt), -->
+[[Project Page]](https://sites.google.com/view/unicomposer)
 
 
 - *UniComposer*: the first band-level music generation system that involves collaborative roles of instruments, tailored to harmonize, provide rhythm, with careful selection of instruments to match the melody's expressive qualities, through cascaded bar-based diffusion models.
